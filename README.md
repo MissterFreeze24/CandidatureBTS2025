@@ -1,5 +1,7 @@
 # Candidature BTS 2025
 
+Vous trouverez dans ce dépot un fichier qui répertorie tous les MOOCs auquel je suis inscrit et documentations que j'ai lu.
+
 Ce repository contient les éléments relatifs à ma candidature pour plusieurs BTS dans le domaine de l'informatique et de l'électronique. Vous y trouverez des lettres de motivation, des CV et des projets personnels que j'ai développés dans le cadre de mes études et formations.
 
 ## Objectif
@@ -18,8 +20,7 @@ L'objectif principal de ce repository est de centraliser tous les documents et p
 - `projets/`: Projets personnels réalisés dans le cadre de ma formation.
   - `Projet_Cybersecurite/`: Projet sur la cybersécurité.
   - `Projet_Developpement_Web/`: Projet en développement web full stack.
-Vous trouverez dans ce dépot un fichier qui répertorie tous les MOOCs auquel je suis inscrit et documentations que j'ai lu.
-
+  - 
 ## Prérequis
 
 - **Git** pour cloner ou télécharger le repository.
